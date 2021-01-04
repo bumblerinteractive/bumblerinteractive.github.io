@@ -1,0 +1,68 @@
+:root {
+    --black: #01060c;
+    --blue: #001f46;
+    --lightblue: #4677b4;
+    --yellow: #feff46;
+    --white: #ffffee;
+  }
+
+h1 {
+    text-align: center;
+    padding-top: 1em;
+    padding-right: 3em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    color: var(--white);
+
+    font-size: 32px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: var(--white);
+    margin-left: 20px;
+    font-size: 3em;
+}
+
+table {
+    text-align: center;
+    padding-top: 1em;
+    padding-right: 4em;
+    padding-bottom: 1em;
+    padding-left: 4em;
+    color: var(--yellow);
+    margin-left: 20px;
+    font-size: 24px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.icon {
+    padding-top: 1em;
+    padding-right: 3em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    width: 5em;
+    height: 5em;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .header {
+    display: block;
+    padding-top: 1em;
+    max-width: 100%;
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+
+
+
